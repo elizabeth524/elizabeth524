@@ -4,6 +4,8 @@ My name is Elizabeth and I am a culiinary professional and a recent graduate of 
 
 Although I have enjoyed my time as a chef, I am very excited about learning new skills and starting my career in the tech field.  Being a data scientist initially appealed to me because of my interest in mathematics and obsession with organization.  Through Faltiron's program, I discovered a love of Python, SQL, and Natural Language Processing.
 
+My goal is to work for a company that has a strong focus on making a positive difference in the world, whether that be socially or environmentally.
+
 - 🌱 I’m currently learning more about SQL and Tableau
 - 💬 Open to communication and collaboration on projects that help the community
 - 📫 Email me at eaw524@gmail.com 
