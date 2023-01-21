@@ -6,7 +6,7 @@ Although I have enjoyed my time as a chef, I am very excited about learning new 
 
 My goal is to work for a company that has a strong focus on making a positive difference in the world, whether that be socially or environmentally.
 
-## What I'm up to:
+#### What I'm up to:
 
 - 🌱 I’m currently learning more about SQL and Tableau
 - 💬 Open to communication and collaboration on projects that help the community
@@ -14,5 +14,7 @@ My goal is to work for a company that has a strong focus on making a positive di
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Yoga, Home Remodeling, Running, Painting, Cooking
 
-## Connect with me:
-[!][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](eaw524@gmail.com)
+#### Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eaw524@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elizabeth524)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-webster524/)
