@@ -15,4 +15,4 @@ My goal is to work for a company that has a strong focus on making a positive di
 - ⚡ Hobbies: Yoga, Home Remodeling, Running, Painting, Cooking
 
 ## Connect with me:
-<kbd>[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](eaw524@gmail.com)<kbd>
+[!][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](eaw524@gmail.com)
